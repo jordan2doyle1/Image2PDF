@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Generated output
+*.pdf
